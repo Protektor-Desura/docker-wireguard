@@ -216,7 +216,3 @@ Below are the instructions for updating containers:
   ```
 
 * You can also remove the old dangling images: `docker image prune`
-
-### Image Update Notifications - Diun (Docker Image Update Notifier)
-
-* We recommend [Diun](https://crazymax.dev/diun/) for update notifications.
